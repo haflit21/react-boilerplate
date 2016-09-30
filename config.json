@@ -1,0 +1,14 @@
+{
+  "css": {
+    "src" : "Resources/assets/less/",
+    "dest" : "Resources/public/css/"
+  },
+  "js": {
+    "src" : "src/",
+    "dest" : "dist/"
+  },
+  "webpack": {
+    "filename" : "bundle.js",
+    "minimize" : true
+  }
+}
